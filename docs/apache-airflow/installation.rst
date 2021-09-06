@@ -155,7 +155,7 @@ to be needed for Linux system (Tested on Ubuntu Buster LTS) :
            freetds-bin \
            krb5-user \
            ldap-utils \
-           libffi6 \
+           libffi7 \
            libsasl2-2 \
            libsasl2-modules \
            libssl1.1 \
